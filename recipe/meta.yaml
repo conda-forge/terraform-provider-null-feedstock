@@ -1,5 +1,5 @@
 {% set provider = "Null" %}
-{% set goname = "github.com/terraform-providers/terraform-provider-"+provider.lower() %}'
+{% set goname = "github.com/terraform-providers/terraform-provider-"+provider.lower() %}
 {% set version = "1.0.0" %}
 
 {% set name = goname.split('/')[-1] %}
