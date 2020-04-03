@@ -56,4 +56,4 @@ about:
 
 extra:
   recipe-maintainers:
-    - sodre
+    - @conda-forge/terraform
