@@ -23,7 +23,7 @@ build:
 
 requirements:
   build:
-    - {{ compiler('go') }} 1.18
+    - {{ compiler('go') }}
 
 test:
   requires:
